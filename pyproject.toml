@@ -12,6 +12,7 @@ autodotenv = "^0.1.3"
 requests = "^2.31.0"
 pillow = "^10.1.0"
 google-api-python-client = "^2.107.0"
+pydantic-settings = "^2.0.3"
 
 
 [build-system]
